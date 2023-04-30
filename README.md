@@ -23,4 +23,4 @@
 #### 脚本使用实例
 开启自动更新，并且申请a.exam.com,b.exam.com,c.exam.com三个域名的证书，并指定脚本和证书的存放路径。
 
-    bash renewCert.sh -td exam.com -dr \[a,b,c\] -sp /my/shell/path -ip /my/cert/path -au 1
+    bash renewCert.sh -td exam.com -dr [a,b,c] -sp /my/shell/path -ip /my/cert/path -au 1
